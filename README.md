@@ -1,1 +1,1 @@
-# currency-exchange
+I will make a currency exchanging app by using python, html, and css. This app will soon use an API to exchange from one currency to another
